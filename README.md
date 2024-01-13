@@ -1,4 +1,4 @@
-![logo](https://github.com/curious-Abhi/curious-Abhi/blob/main/My%20Banner.png)
+![logo](https://github.com/curious-Abhi/curious-Abhi/blob/main/MY%20BANNER.png)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A Passionate Computer Science Student and AI Enthusiast with a flair for content creation, music, and multimedia.</h3>
 
