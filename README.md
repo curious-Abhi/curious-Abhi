@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Programming Languages: (e.g., Python, C++,Java, JavaScript). Data Structures and Algorithms Web Development,Database Management etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/curious-Abhi/MY-PORTFOLIO](abhishekportfolioac5f4b.netlify.app)
+- 👨‍💻 All of my projects are available at [https://abhishekportfolioac5f4b.netlify.app/](abhishekportfolioac5f4b.netlify.app)
 
 - 📫 How to reach me **abhishekk67781@gmail.com**
 
