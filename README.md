@@ -44,6 +44,7 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 
 | Project Row I                        | Project Row II      |
 |------------------------------------|----------------------------------------|
+| 🌐  100 Html Css Javascript [**🔗**](https://github.com/curious-Abhi/html-css-javascript-project/tree/main/100%20PROJECT) | 🌐 100 PYTHON PROJECT [**🔗**](https://github.com/curious-Abhi/PYTHON-PROJECTS/tree/main/100%20PROJECT) | 
 | 🌐  TIC-TAC-TOE [**🔗**](https://github.com/curious-Abhi/Cpp/blob/main/basic/TIC-TAC-TOE.CPP) | 🌐 Rock-Paper-Scissors [**🔗**](https://github.com/curious-Abhi/PYTHON-PROJECTS/tree/main/100%20PROJECT/04%20GAME%20ROCK%20PAPER%20SCISSORS) | 
 | 🌐  MY-RESUME [**🔗**](https://github.com/curious-Abhi/LEARNING-FULL_STACK_DEVELOPER/tree/main/DAY%2003%20MULTIPAGES%20WEBSITES/4.4%20Capstone%20Project%201%20-%20Online%20Resume) | 🌐 CAPSTONE PROJECT [**🔗**](https://github.com/curious-Abhi/LEARNING-FULL_STACK_DEVELOPER/tree/main/DAY%2012%20CAPSTONE%20PROJECT%202) | 
 | 🌐  FLIPKART CLONE [**🔗**](https://github.com/curious-Abhi/LEARNING-FULL_STACK_DEVELOPER/tree/main/DAY%2013%20FLIPKART%20CLONE) | 🌐 BLOG-WEB-APPLICATION [**🔗**](https://github.com/curious-Abhi/LEARNING-FULL_STACK_DEVELOPER/tree/main/DAY%2027%20PROJECT%20ANother%20BLOG%20WEB%20APPLICATION) |
