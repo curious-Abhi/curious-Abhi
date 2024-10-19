@@ -34,8 +34,10 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <a href=https://www.youtube.com/@curiousabhi550 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="curiousabhi550" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhishekk67781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishekk67781" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhishekk67781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekk67781" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/abhishekwbdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/abhishekwbdk" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/abhishekwbdk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/abhishekwbdk" height="30" width="40" /></a>
 </p>
+
+
 
 <hr>
 <h1 align="center">Skills & Tools</h1>
