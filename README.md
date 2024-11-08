@@ -1,6 +1,10 @@
 ![logo](https://github.com/curious-Abhi/curious-Abhi/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar </h1>
-<h3 align="center">A Passionate Computer Science Student and AI Enthusiast with a flair for content creation, music, and multimedia.</h3>
+
+<p align="center">
+  Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for building robust, scalable applications, specializing in the PERN Stack. As a third-year Computer Science and Engineering student, I am constantly exploring new technologies and refining my skills to make impactful contributions in the tech world.
+</p>
+
 
 <img align="right" alt="CODING" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curious-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="curious-abhi" /> </p>
@@ -11,9 +15,14 @@
 
 ## 🙋‍♂️ About Me
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Hardcore DSA Lover ❤
+- ### 🌟 Quick Summary
+- 🎓 Studying **B.Tech** in Computer Science at **Maharshi Dayanand University (MDU), Rohtak**.
+- 🔭 Actively working on personal **projects** and enhancing my expertise in Data Structures and Algorithms..
+- 🌱 Focused on **C++** and mastering **DSA** Problem Solving Skills on  **Different Coding Platform** to solidify my foundation.
+- 📘 Continuously exploring **new tech stacks to expand my knowledge and adapt to the ever-evolving tech landscape**
+- 🎯 Aspiring to build impactful tech solutions and become job-ready in **software engineering**.
 
-- 📘 I’m Currently Studying **New New Tech Stack for Expanding My Skills set and Knowledge**
-
+---
 - 👨‍💻 You can check out my portfolio website [here](https://abhishekportfolioac5f4b.netlify.app/).
 
 - 📫 How to reach me **abhishekk67781@gmail.com**
@@ -87,8 +96,50 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/atom/atom-original-wordmark.svg" alt="atom" width="35" height="35">
+  <a href="https://www.heroku.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="50" />
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="50" />
+  </a>
+
+  <div>
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="50" />
+  </a>
+
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="50" />
+  </a>
+
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="50" />
+  </a>
+
+  <!-- Docker -->
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" />
+  </a>
+
+  <!-- Nginx -->
+  <a href="https://www.nginx.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="50" />
+  </a>
+
+  <!-- Google Cloud -->
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="50" />
+  </a>
+
+  <!-- Atom Editor -->
+  <a href="https://atom.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original-wordmark.svg" alt="Atom" height="50" />
+  </a>
 </div>
+
 
 <hr>
 <h3 align="left">Multi-Media:</h3>
@@ -97,6 +148,76 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>    
 </div>
+
+## 🌟 Upcoming Projects
+
+Here are some of my standout projects, showcasing a mix of **innovation**, **real-world utility**, and **technical diversity**.
+
+### 1. [Smart Health Assistant](https://github.com/AbhishekKumar/Smart-Health-Assistant)
+   A health monitoring app that analyzes user data to provide insights and recommendations.
+   - **Tech Stack**: React, Node.js, MongoDB, TensorFlow.js, Tailwind CSS
+   - **Features**: Real-time health metrics, AI-driven insights, reminders for medication and hydration.
+   - **Highlight**: Combines frontend with machine learning and real-time data handling, showcasing technical versatility.
+
+### 2. [AI-Based Personal Finance Manager](https://github.com/AbhishekKumar/AI-Finance-Manager)
+   A smart financial assistant that uses AI to analyze spending patterns and offer personalized budgeting advice.
+   - **Tech Stack**: Python (Flask), React, PostgreSQL, OpenAI API
+   - **Features**: Transaction tracking, expense categorization, AI-driven recommendations, and report generation.
+   - **Highlight**: Demonstrates backend integration with AI and effective data analysis.
+
+### 3. [E-Commerce Recommendation System](https://github.com/AbhishekKumar/E-Commerce-Recommendation)
+   A personalized recommendation engine for an e-commerce platform.
+   - **Tech Stack**: Python, Node.js, Express, MongoDB, React
+   - **Features**: Collaborative filtering, content-based filtering, user behavior analytics.
+   - **Highlight**: Advanced algorithms for recommendation, enhancing user experience with AI insights.
+
+### 4. [IoT-Based Home Automation System](https://github.com/AbhishekKumar/Home-Automation-IoT)
+   A smart home automation project using IoT and cloud technologies.
+   - **Tech Stack**: Arduino, Node.js, MQTT, React
+   - **Features**: Remote control of home appliances, real-time status monitoring, Alexa integration.
+   - **Highlight**: Combines IoT with web technology, showcasing proficiency in hardware and software integration.
+
+
+---
+
+## 🧩 Open Source Contributions
+- **[Project 1 - Open Source Contribution](https://github.com/ExampleOrg/ExampleProject)**: Implemented a feature for improved UX.
+- **[Project 2 - Documentation Improvement](https://github.com/ExampleOrg/ExampleProject)**: Enhanced documentation for developer onboarding.
+
+---
+
+## 🎓 Certifications
+- **PERN Stack Development**
+- **Machine Learning with Python**
+- **JavaScript Algorithms and Data Structures**
+- **Cloud Computing Basics**
+
+---
+
+## 📚 Education
+- **Bachelor of Technology (B.Tech)** in Computer Science and Engineering  
+  **Maharshi Dayanand University (MDU), Rohtak**  
+  **GPA**: 7.2/10 (First 3 Semesters)
+
+---
+## 📈 Achievements
+
+- **Learning Journey:** Currently building skills in full stack development, Data Structures, and Algorithms, and exploring new technologies.
+- **Hackathons:** Actively seeking opportunities to participate in hackathons to enhance problem-solving skills and collaborate with peers.
+- **Project Highlights:** Currently working on projects that demonstrate practical applications of my skills. Recent projects include a Daily dash and PG Finder using the PERN stack.
+
+---
+
+## 🏆 Technical Challenges
+
+- **Competitive Coding:** Engaged in daily problem-solving on platforms like LeetCode and CodeChef to strengthen algorithmic thinking.
+  - **GeeksForGeeks:** Solving daily POTD and Participating weekly contest.
+  - **LeetCode:** Practicing problems to improve proficiency in algorithms and data structures.
+  - **CodeChef:** Learning from the community and exploring competitive coding problems.
+- **Future Goals:** Aiming to participate in coding contests and improve rankings on competitive coding platforms.
+
+---
+
 
 
 ## 📝 PROJECT's ZONE (Upcoming More Projects)
@@ -114,4 +235,8 @@ Ability to quickly Learn and Master a new skill and to implement it to solve a r
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curious-abhi&show_icons=true&locale=en" alt="curious-abhi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curious-abhi&" alt="curious-abhi" /></p>
+
+---
+
+Thank you for visiting my profile! I'm always open to new opportunities and collaborations. Feel free to connect!
 
