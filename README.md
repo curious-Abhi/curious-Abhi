@@ -170,14 +170,7 @@ Here are some of my standout projects, showcasing a mix of **innovation**, **rea
    - **Tech Stack**: Python, Node.js, Express, MongoDB, React
    - **Features**: Collaborative filtering, content-based filtering, user behavior analytics.
    - **Highlight**: Advanced algorithms for recommendation, enhancing user experience with AI insights.
-
-### 4. [IoT-Based Home Automation System](https://github.com/AbhishekKumar/Home-Automation-IoT)
-   A smart home automation project using IoT and cloud technologies.
-   - **Tech Stack**: Arduino, Node.js, MQTT, React
-   - **Features**: Remote control of home appliances, real-time status monitoring, Alexa integration.
-   - **Highlight**: Combines IoT with web technology, showcasing proficiency in hardware and software integration.
-
-
+ 
 ---
 
 ## 🧩 Open Source Contributions
