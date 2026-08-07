@@ -58,16 +58,6 @@ public:
 };
 ```
 
-I'm restarting my software engineering journey with one objective:
-
-> **Build production-quality software while documenting the entire journey publicly.**
-
-Instead of endlessly consuming tutorials, I'm focused on writing code, building projects, improving engineering fundamentals, and developing real-world software.
-
-Every repository in this GitHub represents measurable progress.
-
----
-
 # 🚀 Mission
 
 This isn't just another GitHub profile.
@@ -107,45 +97,6 @@ My goal is to master the complete software engineering stack:
 ```
 
 ---
-
-# 💡 Engineering Principles
-
-```text
-Learn
-
-      ↓
-
-Practice
-
-      ↓
-
-Build
-
-      ↓
-
-Code Review
-
-      ↓
-
-Refactor
-
-      ↓
-
-Deploy
-
-      ↓
-
-Repeat
-```
-
----
-
-<div align="center">
-
-## ⚡ "Consistency compounds. One commit every day."
-
-</div>
-
 <!--==================== HERO END ====================-->
 
 
@@ -404,50 +355,6 @@ Open Source                 ██░░░░░░░░
 
 ---
 
-# 📈 Engineering Journey
-
-```text
-          Learn
-
-             │
-
-             ▼
-
-         Understand
-
-             │
-
-             ▼
-
-          Practice
-
-             │
-
-             ▼
-
-        Build Projects
-
-             │
-
-             ▼
-
-        Solve Problems
-
-             │
-
-             ▼
-
-      Engineer Solutions
-
-             │
-
-             ▼
-
-       Never Stop Learning
-```
-
----
-
 # ⚡ Current Mission
 
 ```cpp
@@ -464,34 +371,6 @@ while(alive)
     Repeat();
 }
 ```
-
----
-
-
----
-
-# 📖 Favorite Quote
-
-<div align="center">
-
-> **"Discipline builds what motivation starts."**
-
-</div>
-
----
-
-# ⭐ Support
-
-If you find any repository useful,
-
-⭐ **Star the repository**
-
-🍴 **Fork it**
-
-🤝 **Connect with me**
-
-💬 **Share your feedback**
-
 ---
 
 <div align="center">
